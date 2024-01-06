@@ -10,10 +10,10 @@ Make sure you have Node.js installed on your system (https://nodejs.org/).
 To use this template for a new project, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/oaksvirals/webpack-starter.git <your-new-project-name>
+git clone https://github.com/oaksvirals/webpack-starter.git your-new-project-name
 
 2. Navigate into your new project directory:
-cd <your-new-project-name>
+cd your-new-project-name
 
 3. Install the necessary dependencies:
 npm install
